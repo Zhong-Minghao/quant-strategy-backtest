@@ -8,3 +8,10 @@ The backtest was conducted using a modified framework called ryquant, which is d
 
 [Ricequant](https://github.com/ricequant/rqalpha) 
 
+## Usage
+
+To install the requirement dependencies,
+
+```bash
+pip install -r requirements.txt
+```
